@@ -1,0 +1,7 @@
+site_name: Ağ Güvenliği Ödevi
+site_url : https://example.com/
+nav:
+  - Ağ Güvenliği: index.md
+  - Ağ Politikalari: about.md
+  - Senaryo: contact.md
+theme: readthedocs
